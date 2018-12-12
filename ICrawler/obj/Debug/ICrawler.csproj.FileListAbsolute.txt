@@ -1,0 +1,6 @@
+D:\WorkNet\Three.Crawler\ICrawler\bin\Debug\ICrawler.dll
+D:\WorkNet\Three.Crawler\ICrawler\bin\Debug\ICrawler.pdb
+D:\WorkNet\Three.Crawler\ICrawler\obj\Debug\ICrawler.csprojAssemblyReference.cache
+D:\WorkNet\Three.Crawler\ICrawler\obj\Debug\ICrawler.csproj.CoreCompileInputs.cache
+D:\WorkNet\Three.Crawler\ICrawler\obj\Debug\ICrawler.dll
+D:\WorkNet\Three.Crawler\ICrawler\obj\Debug\ICrawler.pdb

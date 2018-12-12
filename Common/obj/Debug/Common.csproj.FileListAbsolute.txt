@@ -1,0 +1,9 @@
+D:\WorkNet\Three.Crawler\Common\bin\Debug\Common.dll
+D:\WorkNet\Three.Crawler\Common\bin\Debug\Common.pdb
+D:\WorkNet\Three.Crawler\Common\bin\Debug\log4net.dll
+D:\WorkNet\Three.Crawler\Common\bin\Debug\log4net.xml
+D:\WorkNet\Three.Crawler\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\WorkNet\Three.Crawler\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\WorkNet\Three.Crawler\Common\obj\Debug\Common.csproj.CopyComplete
+D:\WorkNet\Three.Crawler\Common\obj\Debug\Common.dll
+D:\WorkNet\Three.Crawler\Common\obj\Debug\Common.pdb

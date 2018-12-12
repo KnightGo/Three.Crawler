@@ -1,0 +1,16 @@
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\Crawler.dll
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\Crawler.pdb
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\ICrawler.dll
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\ICrawler.pdb
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\HtmlAgilityPack.pdb
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\HtmlAgilityPack.xml
+D:\WorkNet\Three.Crawler\Crawler\obj\Debug\Crawler.csprojAssemblyReference.cache
+D:\WorkNet\Three.Crawler\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+D:\WorkNet\Three.Crawler\Crawler\obj\Debug\Crawler.csproj.CopyComplete
+D:\WorkNet\Three.Crawler\Crawler\obj\Debug\Crawler.dll
+D:\WorkNet\Three.Crawler\Crawler\obj\Debug\Crawler.pdb
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\Common.dll
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\log4net.dll
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\Common.pdb
+D:\WorkNet\Three.Crawler\Crawler\bin\Debug\log4net.xml
